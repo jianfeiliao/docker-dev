@@ -1,2 +1,2 @@
-# golang-dev
-Containerized development environment for Golang.
+# docker-dev
+Dockerized development environment for myself.
